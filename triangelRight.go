@@ -1,3 +1,10 @@
+// result
+// *
+// **
+// ***
+// ****
+// *****
+
 package main
 
 import "fmt"
